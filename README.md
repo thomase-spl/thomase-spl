@@ -17,7 +17,7 @@
 
 ## 📫 Me contacter
 
-- LinkedIn : 
+- LinkedIn : ?
 - Email : thomas.enjalbert.pro@gmail.com
 
 ---

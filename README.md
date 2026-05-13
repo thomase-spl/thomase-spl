@@ -31,7 +31,7 @@
 
 > *"Thomas est une personne sérieuse et motivée, 
 > avec qui j'ai eu le plaisir de collaborer en formation DevOps Azure. 
-> Je recommande de suivre son parcours !"*  
+> Je recommande de suivre son parcours ! ⚡"*  
 > — Nathan, promotion DevOps Azure
 
 ---

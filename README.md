@@ -20,5 +20,12 @@
 - LinkedIn : 
 - Email : thomas.enjalbert.pro@gmail.com
 
+## 🚀 Mes projets
+
+| Projet | Description | Technologies |
+|--------|-------------|--------------|
+| Page de profil GitHub | Ma première contribution Git | Git, Markdown |
+| [À venir] | [Description] | [Technologies] |
+
 ---
 *Page mise à jour le 13/05/2026*
